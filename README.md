@@ -1,5 +1,8 @@
 # WatermarkRem — Video Watermark Detection and Blurring
 
+Link to video Demo: https://drive.google.com/file/d/1Qe-UrVats3nZea-CC3Q4W-X7xC8oHV7r/view?usp=sharing
+
+
 This project consists of a **React Native frontend** and a **Python Flask backend** that work together to detect and blur watermarks in uploaded MP4 videos.
 
 ---
